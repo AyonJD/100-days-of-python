@@ -151,3 +151,4 @@ print(str23.swapcase()) #Output: hELLO wORLD
 # Example:-
 str24 = "He's name is Dan. Dan is an honest man."
 print(str24.title()) #Output: He'S Name Is Dan. Dan Is An Honest Man.
+# ----------------->>>>
