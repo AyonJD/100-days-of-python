@@ -1,5 +1,5 @@
 # For new line \n
-# This \n is called Escape sequence character
+# This \n is called Escape sequence character ----->
 print("First Line \nSecond Line")
 
 '''
